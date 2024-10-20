@@ -21,7 +21,8 @@ Para ejecutar este proyecto, necesitas tener instalado lo siguiente:
 - Postman (opcional, para probar la API)
 
 ## Instalación
-
+- Se recomienda la instalacion de un entorno virtual "python -m venv venv" e instalar el archivo requirements.txt
+- Para hacer correr el servidor usar uvicorn main:app --reload en el directorio donde este el main.py
 1. **Clona el repositorio**:
 
 ```bash
